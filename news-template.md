@@ -13,6 +13,6 @@ People have been busy but… nothing really interesting worth discussing for thi
 # Want to contribute?
 
 You have noticed something missing that you saw lately? Do not keep the candies for yourself and please feel free to
-share with us! You can open a PR at [This Week In Rust Contents](https://github.com/phaazon/this-week-in-rust-contents).
+share with us! You can open a PR at [This Week In Neovim Contents](https://github.com/phaazon/this-week-in-neovim-contents).
 
-Feel free to read [how to contribute](https://github.com/phaazon/this-week-in-rust-contents/README.md#how-to-contribute) to get started.
+Feel free to read [how to contribute](https://github.com/phaazon/this-week-in-neovim-contents/README.md#how-to-contribute) to get started.
