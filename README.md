@@ -71,3 +71,9 @@ When opening a PR to add some news to the next weekly, you must always include t
   get the link and simply close your issue tab, do not actually create the issue). **Do not put images in your PRs as
   they will be automatically refused.** If you don’t want to use GitHub, that’s fine, but ensure to use an image
   provider that will remain stable in time.
+
+Each news should be a simple listed item of the form:
+
+```markdown
+- _Few words explaining the change_: a longer description ([source](link-to-source)).
+```
