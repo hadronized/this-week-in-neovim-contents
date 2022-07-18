@@ -75,5 +75,5 @@ When opening a PR to add some news to the next weekly, you must always include t
 Each news should be a simple listed item of the form:
 
 ```markdown
-- _Few words explaining the change_: a longer description ([source](link-to-source)).
+- [**project**: Few words explaining the news.](link-to-source).
 ```
