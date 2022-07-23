@@ -75,5 +75,16 @@ When opening a PR to add some news to the next weekly, you must always include t
 Each news should be a simple listed item of the form:
 
 ```markdown
-- [**project**: Few words explaining the news.](link-to-source).
+### <project name>
+
+![](…) # optional screeshot, if relevant / any was provided in the source
+
+A description of the change(s).
+
+- [reddit](<link to the reddit announcement / discussion)
+- [gh](<link to the GitHub repository>)
+- [blog](<link to the blog article>)
+- [etc.](<etc.>)
 ```
+
+If several news / changes are online for a given project, please do not create several `###` headlines; group everything under the same one.
