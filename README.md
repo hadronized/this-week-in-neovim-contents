@@ -54,8 +54,7 @@ If you want to become a content contributor, you can do different things, but th
 
 If the branch is not created yet, you can even contribute that branch!
 
-1. Create the `%Y-%M-%d` branch. You can use the `date` command to generate that name (assuming you are rebased on
-   `origin/master`, fully fetched): `git switch -c $(date +%Y-%M-%d)`.
+1. Create the `%Y-%M-%d` branch. It must start from `master`.
 2. Copy the file `news-template.md` in `contents/<year>/<month>/<day>.md`.
 3. Open the PR.
 
