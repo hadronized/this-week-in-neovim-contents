@@ -38,7 +38,7 @@ partake in that phase of review, but the goal here is to ensure links work, no t
 to withdraw their updates from the weekly updates.
 
 To finish the cycle, the merge commit is created and the article is automatically available on
-https://this-week-in-neovim.org/latest or https://this-week-in-neovim.org/<year>/<month>/<day>.
+`https://this-week-in-neovim.org/latest` or `https://this-week-in-neovim.org/<year>/<month>/<day>`.
 
 ## How to contribute?
 
