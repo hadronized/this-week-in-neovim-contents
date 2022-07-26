@@ -71,19 +71,92 @@ When opening a PR to add some news to the next weekly, you must always include t
   they will be automatically refused.** If you don’t want to use GitHub, that’s fine, but ensure to use an image
   provider that will remain stable in time.
 
-Each news should be a simple listed item of the form:
+Each news is a block of both HTML and Markdown. Depending on the category, its header and content might change, so here
+is a break-down by category.
+
+### For Core updates
 
 ```markdown
-### <project name>
-
-![](…) # optional screeshot, if relevant / any was provided in the source
-
-A description of the change(s).
-
-- [reddit](<link to the reddit announcement / discussion)
-- [gh](<link to the GitHub repository>)
-- [blog](<link to the blog article>)
-- [etc.](<etc.>)
+- Short description: longer description
 ```
 
+Nothing really enforced as things should be as much informative and to the point as possible here.
+
+### For community updates: guides, tours, articles, etc.
+
+It should have this form:
+
+```markdown
+<h3 id="guide-<plugin-name>">
+  <a href="#guide-<plugin-name>">
+    Description of the guide
+  </a>
+</h3>
+
+Description of the guide here. You can start that section with a video or screenshot but don’t forget to upload it
+to GitHub via an issue (do not include it in the PR or it will be rejected).
+
+If the guide is not about a plugin, name the anchor and `href` as you please but still use the prefix `guide-`.
+
+- [Reddit](<link to Reddit announcement, if any>)
+- [GitHub](<link to GitHub project, if any>)
+- [etc.](<any kind of useful link, up to you>)
+
+---
+```
+
+### For community updates; new plugins
+
+```markdown
+<h3 id="new-<plugin-name>">
+  <a href="#new-<plugin-name>">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fa-solid fa-book"></i>
+      </span>
+      <span>plugin-name</span>
+    </span>
+  </a>
+</h3>
+
+Description of the new plugin here. You can start that section with a video or screenshot but don’t forget to upload it
+to GitHub via an issue (do not include it in the PR or it will be rejected).
+
+- [Reddit](<link to Reddit announcement, if any>)
+- [GitHub](<link to GitHub project, if any>)
+- [etc.](<any kind of useful link, up to you>)
+
+---
+```
+
+The `---` translates to `<hr/>` in HTML and helps a lot delimit plugin section; please do not forget to include it!
+
+The `### pr`
+
 If several news / changes are online for a given project, please do not create several `###` headlines; group everything under the same one.
+
+### For community updates: updates of an existing plugin
+
+Very similar to the previous section, the only thing that changes is the anchor (and `href`):
+
+```markdown
+<h3 id="update-<plugin-name>">
+  <a href="#update-<plugin-name>">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fa-solid fa-book"></i>
+      </span>
+      <span>plugin-name</span>
+    </span>
+  </a>
+</h3>
+
+Description of the new plugin here. You can start that section with a video or screenshot but don’t forget to upload it
+to GitHub via an issue (do not include it in the PR or it will be rejected).
+
+- [Reddit](<link to Reddit announcement, if any>)
+- [GitHub](<link to GitHub project, if any>)
+- [etc.](<any kind of useful link, up to you>)
+
+---
+```
