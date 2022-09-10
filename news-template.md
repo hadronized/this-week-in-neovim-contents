@@ -12,6 +12,10 @@ Nothing much this week… 🤷
 
 > Neovim is full of active plugins. This section is about the community and what is going on.
 
+**Plugins supporting [SemVer](https://semver.org) will have a little badge on the right side of their title:
+<span class="has-text-grey">SemVer</span> <span class="icon has-text-warning"><span class="fa-solid fa-star"></span></span>
+Those plugins help contributing to a more stable Neovim ecosystem, and hence are put in front of others. Thank you!**
+
 People have been busy but… nothing really interesting worth discussing for this week, sadly.😢
 
 ## [Need help](#need-help) {#need-help}
