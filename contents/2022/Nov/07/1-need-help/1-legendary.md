@@ -1,5 +1,5 @@
-<h3 id="help-your-plugin.nvim">
-  <a href="#help-your-plugin.nvim">
+<h3 id="help-legendary.nvim">
+  <a href="#help-legendary.nvim">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-handshake-angle"></i>
@@ -15,4 +15,4 @@
 Feedback is requested to help make decisions during the rewrite.
 If you are a `legendary.nvim` user, please provide feedback via this [GitHub discussion](https://github.com/mrjones2014/legendary.nvim/discussions/188).
 
-- [GitHub](https://github.com/mrjones2014/legendary.nvim/discussions/188)
+- [GitHub](https://github.com/mrjones2014/legendary.nvim)
