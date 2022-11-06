@@ -16,3 +16,5 @@ Feedback is requested to help make decisions during the rewrite.
 If you are a `legendary.nvim` user, please provide feedback via this [GitHub discussion](https://github.com/mrjones2014/legendary.nvim/discussions/188).
 
 - [GitHub](https://github.com/mrjones2014/legendary.nvim)
+
+---
