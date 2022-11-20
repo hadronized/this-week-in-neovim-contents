@@ -4,10 +4,9 @@
       <span class="icon">
         <i class="fa-solid fa-book"></i>
       </span>
-      </span>
-      <span>your-plugin</span>
-    </a>
-  </h3>
+    </span>
+    <span>your-plugin</span>
+  </a>
 </h3>
 
 ![your-plugin](https://link-to-an-image-or-gif-or-video-etc.)

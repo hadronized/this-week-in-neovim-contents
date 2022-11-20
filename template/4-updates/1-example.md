@@ -4,10 +4,9 @@
       <span class="icon">
         <i class="fa-solid fa-book"></i>
       </span>
-      </span>
-      <span>your-plugin</span>
-    </a>
-  </h3>
+    </span>
+    <span>your-plugin</span>
+  </a>
 </h3>
 
 > One-liner description of the plugin is about.
