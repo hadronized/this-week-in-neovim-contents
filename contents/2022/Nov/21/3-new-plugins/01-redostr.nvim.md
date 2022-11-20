@@ -1,5 +1,5 @@
-<h3 id="redostr.nvim">
-  <a href="#redostr.nvim">
+<h3 id="new-redostr.nvim">
+  <a href="#new-redostr.nvim">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
