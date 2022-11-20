@@ -5,9 +5,8 @@
         <i class="fa-solid fa-book"></i>
       </span>
       </span>
-      <span>lsp-format-modifications.nvim</span>
-    </a>
-  </h3>
+    <span>lsp-format-modifications.nvim</span>
+  </a>
 </h3>
 
 LSP formatting, but only on modified text regions.
