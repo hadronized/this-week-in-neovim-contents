@@ -14,6 +14,7 @@
 
 `legendary.nvim` now supports item groups to create nested menus in the finder. Selecting an item group will open a new finder searching the items within the selected group.
 
+- [Reddit](https://www.reddit.com/r/neovim/comments/zcck4v/legendarynvim_now_supports_grouping_items_into/)
 - [GitHub](https://github.com/mrjones2014/legendary.nvim)
 
 ---
