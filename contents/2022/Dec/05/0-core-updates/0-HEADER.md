@@ -1,4 +1,4 @@
-# Neovim Core updates
+# [Neovim Core updates](#core) {#core}
 
 > Updates of [Neovim](https://neovim.org) itself, which are available on Neovim nightly.
 
