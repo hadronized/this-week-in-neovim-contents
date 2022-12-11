@@ -1,4 +1,4 @@
-<h3 id="new-trashvim">
+<h3 id="new-dotenv">
     <a href="#new-dotenv">
         <span class="icon-text">
             <span class="icon">
