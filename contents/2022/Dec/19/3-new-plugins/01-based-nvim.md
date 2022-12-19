@@ -9,9 +9,13 @@
   </a>
 </h3>
 
-![based.nvim](https://user-images.githubusercontent.com/43476566/208255795-f4f5e50a-bfff-4b5b-bb37-2b836bdd2005.mov)
+<video controls>
+  <source
+    src="https://user-images.githubusercontent.com/43476566/208255795-f4f5e50a-bfff-4b5b-bb37-2b836bdd2005.mov"
+  >
+</video>
 
-based.nvim is a plugin for quickly viewing numbers in different bases with virtual text.
+`based.nvim` is a plugin for quickly viewing numbers in different bases with virtual text.
 
 - [GitHub](https://github.com/trmckay/based.nvim)
 
