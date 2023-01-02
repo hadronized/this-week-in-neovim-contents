@@ -1,6 +1,7 @@
 # [Did you know?](#tips) {#tips}
 
-Did you know what you can automatically jump on those place in file, where are you exiting from last time? Just add this autocmd in your init.lua:
+Did you know that you can automatically jump to the last place you’ve visited in a file before exiting? Just add this 
+`autocmd `in your `init.lua`:
 
 ```lua
 vim.api.nvim_create_autocmd('BufReadPost', {
@@ -13,4 +14,5 @@ vim.api.nvim_create_autocmd('BufReadPost', {
   end,
 })
 ```
-It will search mark `"` which contains the cursor position when last exiting the current buffer and set cursor position on this place.
+It will search mark `"` which contains the cursor position when last exiting the buffer and set the cursor position to
+that location. A pretty nice trick to know!

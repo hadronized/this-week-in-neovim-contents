@@ -5,11 +5,11 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>search-replace</span>
+    <span>search-replace.nvim</span>
   </a>
 </h3>
 
-![search-replace.nvim screenshot](https://user-images.githubusercontent.com/226654/210175428-82e56d0c-0db2-418a-b74c-1ab5a03b3530.gif)
+![search-replace.nvim](https://user-images.githubusercontent.com/226654/210175428-82e56d0c-0db2-418a-b74c-1ab5a03b3530.gif)
 
 A Neovim search and replace plugin that builds on the native search and replace experience.
 
