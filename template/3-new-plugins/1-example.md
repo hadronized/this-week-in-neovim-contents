@@ -5,11 +5,11 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>your-plugin</span>
+    <span>your-plugin.nvim</span>
   </a>
 </h3>
 
-![your-plugin](https://link-to-an-image-or-gif-or-video-etc.)
+![your-plugin.nvim](https://link-to-an-image-or-gif-or-video-etc.)
 
 Introduce your plugin! Also, feel free to use [@name] to add a link to the GitHub account of the author of the plugin.
 

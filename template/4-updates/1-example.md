@@ -5,13 +5,13 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>your-plugin</span>
+    <span>your-plugin.nvim</span>
   </a>
 </h3>
 
 > One-liner description of the plugin is about.
 
-![your-plugin](https://link-to-an-image-or-gif-or-video-etc.)
+![your-plugin.nvim](https://link-to-an-image-or-gif-or-video-etc.)
 
 Explain what has changed.
 
