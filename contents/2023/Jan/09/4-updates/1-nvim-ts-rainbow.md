@@ -1,5 +1,5 @@
-<h3 id="help-nvim-ts-rainbow">
-  <a href="#help-nvim-ts-rainbow">
+<h3 id="update-nvim-ts-rainbow">
+  <a href="#update-nvim-ts-rainbow">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-handshake-angle"></i>
