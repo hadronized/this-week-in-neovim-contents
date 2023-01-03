@@ -15,6 +15,6 @@
 
 The nvim-ts-rainbow repo has been archived and the latest commit [announces](https://github.com/p00f/nvim-ts-rainbow/commit/ef95c15a935f97c65a80e48e12fe72d49aacf9b9) it will no longer be maintained. Forks are encouraged. Consider a picking up the project, or be on the [lookout for a maintained fork](https://techgaun.github.io/active-forks/index.html#https://github.com/p00f/nvim-ts-rainbow) from one of its many contributors.
 
-- [GitHub](https://link-to-the-github-project)
+- [GitHub](https://github.com/p00f/nvim-ts-rainbow)
 
 ---
