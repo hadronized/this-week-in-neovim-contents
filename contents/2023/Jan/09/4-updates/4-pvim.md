@@ -12,7 +12,7 @@
 > A portable Vim wrapper. It intends to contain everything to the one directory
 > and if needed grab the Neovim app image.
 
-New support for Lazy.nvim
+New support for [Lazy.nvim](https://github.com/folke/lazy.nvim)
 
 The wrapper is now more intelligent with setting up your plugin manager by
 waiting until your config calls for it. As such it is no longer limited to only
