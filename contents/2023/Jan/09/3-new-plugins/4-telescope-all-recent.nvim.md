@@ -11,5 +11,7 @@
 
 ![telescope-all-recent.nvim](https://user-images.githubusercontent.com/38609485/210369490-98c0fecc-ad96-4efa-9360-55b012d70eb6.gif)
 
-A telescope modification for adding (f)recency sorting to any telescope picker.
+A [telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) modification for adding (f)recency sorting to any
+telescope picker. Written by [@prochri](https://github.com/prochri/telescope-all-recent.nvim).
+
 - [GitHub](https://github.com/prochri/telescope-all-recent.nvim)

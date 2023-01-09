@@ -12,13 +12,11 @@
 > A portable Vim wrapper. It intends to contain everything to the one directory
 > and if needed grab the Neovim app image.
 
-New support for [Lazy.nvim](https://github.com/folke/lazy.nvim)
+New support for [lazy.nvim](https://github.com/folke/lazy.nvim)
 
-The wrapper is now more intelligent with setting up your plugin manager by
-waiting until your config calls for it. As such it is no longer limited to only
-Packer based configs and has added Lazy support.  
-If you want to use it with another plugin manager feel free to open an issue or
-pr.
+The wrapper is now more intelligent with setting up your plugin manager by waiting until your config calls for it. As
+such it is no longer limited to only Packer based configs and has added Lazy support. If you want to use it with
+another plugin manager feel free to open an issue or PR.
 
 - [GitHub](https://github.com/RoryNesbitt/pvim)
 
