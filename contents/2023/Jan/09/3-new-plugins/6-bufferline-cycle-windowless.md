@@ -16,7 +16,7 @@ Neovims default tab-window-buffer model allows viewing open buffers in multiple 
 This plugin helps give a more traditional behaviour for tabs by configuring the ability to skip past buffers that are
 already open in an existing window. The behaviour is toggleable and configurable to be on or off by default.
 
-Written by [@roobert](https://github.com/roobert/bufferline-cycle-windowless.nvim).
+Written by [@roobert](https://github.com/roobert).
 
 - [Github](https://github.com/roobert/bufferline-cycle-windowless.nvim)
 

@@ -22,7 +22,7 @@ Some of the built-in functions are:
 - Toggle conditionals without else into postfix format and back
 - ... And more! Check out github for the full list :)
 
-Pull requests for language support are welcome! Written by [@CKolkey](https://github.com/CKolkey/ts-node-action)!
+Pull requests for language support are welcome! Written by [@CKolkey](https://github.com/CKolkey)!
 
 - [Reddit](https://old.reddit.com/r/neovim/comments/1054s17/new_plugin_preview_treesitter_node_action/)
 - [GitHub](https://github.com/CKolkey/ts-node-action)
