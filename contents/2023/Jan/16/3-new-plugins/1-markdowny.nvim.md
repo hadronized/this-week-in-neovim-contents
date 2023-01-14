@@ -11,7 +11,7 @@
 
 ![markdowny.nvim](https://user-images.githubusercontent.com/5817809/211911652-fe0c1d26-1dd0-4832-b948-e685067bb78b.gif)
 
-A new plugin by @antonk52 to add markdown like shortcuts similar to Reddit/Notion/Slack/Discord etc
+A new plugin by [@antonk52](https://github.com/antonk52) to add Markdown like shortcuts similar to Reddit/Notion/Slack/Discord etc.
 
 - [Reddit](https://www.reddit.com/r/neovim/comments/10as1y5/markdownynvim/)
 - [GitHub](https://github.com/antonk52/markdowny.nvim)
