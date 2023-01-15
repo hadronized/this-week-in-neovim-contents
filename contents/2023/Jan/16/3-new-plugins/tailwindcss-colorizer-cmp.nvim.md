@@ -13,6 +13,6 @@
 
 A Neovim plugin to add [vs-code-style TailwindCSS color hints](https://tailwindcss.com/docs/editor-setup) to the `nvim-cmp` completion menu.
 
-- [GitHub](https://github.com/roobert/tailwindcss-colorizer-cmp)
+- [GitHub](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim)
 
 ---
