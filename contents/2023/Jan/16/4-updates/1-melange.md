@@ -21,7 +21,7 @@ Melange itself had a big update this week that replaces the lush.nvim
 implementation with direct calls to the Neovim API (it no longer supports Vim 9).
 The color palette was adjusted, and the list of highlight groups was also updated.
 
-- A detailed list of changes can be found in [savq/melange#51](https://github.com/savq/melange-nvim/pull/51).
+- [Detailed list of changes (PR)](https://github.com/savq/melange-nvim/pull/51).
 - [GitHub](https://github.com/savq/melange-nvim).
 
 ---
