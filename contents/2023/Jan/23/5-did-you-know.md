@@ -7,7 +7,7 @@ You can do it with `:put` command, `execute()` and `=` operator:
 :put =execute('messages')
 ```
 
-If you don't want to use no current buffer, and you want to specify filename for redirect output – use built-in Ex-command `:redir`.
+If you don't want to add to the current buffer, and you can also redirect commands output to a file, register or variable using built-in Ex-command `:redir`.
 In additional, for redirect shell-command in current buffer, use `!!` in normal mode or `:.!` in cmd-line mode:
 
 ```
