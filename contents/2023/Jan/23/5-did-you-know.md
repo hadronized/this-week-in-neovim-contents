@@ -7,7 +7,7 @@ You can do it with `:put` command, `execute()` and `=` operator:
 :put =execute('messages')
 ```
 
-If you don't want to add to the current buffer, and you can also redirect commands output to a file, register or variable using built-in Ex-command `:redir`:
+If you don't want to add to the current buffer, you can also redirect commands output to a file, register or variable using built-in Ex-command `:redir`:
 
 ```
 :redir > messages.txt
