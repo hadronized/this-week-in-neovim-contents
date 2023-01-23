@@ -1,5 +1,5 @@
-<h3 id="lua-language-server type check action">
-  <a href="https://github.com/marketplace/actions/sumneko-lint">
+<h3 id="new-lua-language-server-type-check-action">
+  <a href="#new-lua-language-server-type-check-action">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
@@ -19,10 +19,7 @@ a CLI for generating diagnostic reports.
 
 This GitHub action leverages those features for static type checking and linting of Lua/EmmyLua code.
 
-Written in Lua, it naturally type checks itself :wink:.
-
-[![Type Check Code Base](https://github.com/mrcjkb/lua-typecheck-action/actions/workflows/typecheck.yml/badge.svg)](https://github.com/mrcjkb/lua-typecheck-action/actions/workflows/typecheck.yml)
-
+Written in Lua, it naturally type checks itself 😉.
 
 - [Reddit](https://www.reddit.com/r/neovim/comments/10fmag4/plugin_devs_type_check_your_lua_plugins_with/?utm_source=share&utm_medium=web2x&context=3)
 - [GitHub](https://github.com/marketplace/actions/sumneko-lint)

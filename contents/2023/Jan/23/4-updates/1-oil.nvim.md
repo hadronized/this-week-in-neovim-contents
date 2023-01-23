@@ -9,7 +9,7 @@
   </a>
 </h3>
 
-> A vim-vinegar like file explorer that lets you edit your filesystem like a normal Neovim buffer.
+> A `vim-vinegar` like file explorer that lets you edit your filesystem like a normal Neovim buffer.
 
 ![oil.nvim](https://user-images.githubusercontent.com/506791/209727111-6b4a11f4-634a-4efa-9461-80e9717cea94.mp4)
 
