@@ -9,7 +9,7 @@
   </a>
 </h3>
 
-A new plugin that makes aims to make it as easy as possible to make your own custom Neovim operators (like `d`, `c`, 
+A new plugin that aims to make it as easy as possible to make your own custom Neovim operators (like `d`, `c`, 
 `gq`, and `y`). Just define a handler function and put it in a keymap!
 
 Checkout some [examples](https://github.com/zdcthomas/yop.nvim/wiki/Example-mappings)!
