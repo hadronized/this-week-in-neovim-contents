@@ -1,5 +1,5 @@
-<h3 id="new-your-plugin.nvim">
-  <a href="#new-your-plugin.nvim">
+<h3 id="wpm.nvim">
+  <a href="#wpm.nvim">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
