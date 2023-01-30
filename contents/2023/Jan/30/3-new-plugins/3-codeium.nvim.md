@@ -9,7 +9,11 @@
   </a>
 </h3>
 
-![codeium.nvim](https://user-images.githubusercontent.com/522465/215312040-d5e91a6b-cffa-48f1-909f-360328b5af79.webm)
+<video controls>
+  <source
+    src="https://user-images.githubusercontent.com/522465/215312040-d5e91a6b-cffa-48f1-909f-360328b5af79.webm"
+  >
+</video>
 
 An unofficial native (Lua and `nvim-cmp`) alternative to the official Codeium plugin. Codeium is an AI code assistance 
 tool.

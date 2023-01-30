@@ -9,8 +9,6 @@
   </a>
 </h3>
 
-![nvim-react](https://link-to-an-image-or-gif-or-video-etc.)
-
 <video controls>
   <source
     src="https://user-images.githubusercontent.com/18459807/212144062-28756d23-1c42-4171-9cd8-a49a866ac9e8.mp4"
