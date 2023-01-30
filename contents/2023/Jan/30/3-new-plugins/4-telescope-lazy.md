@@ -17,14 +17,14 @@
 </video>
 
 Telescope extension from [@tsakirist](https://github.com/tsakirist) that provides handy functionality about plugins
-installed via [lazy.nvim](https://github.com/folke/lazy.nvim).
+installed plugins via [lazy.nvim](https://github.com/folke/lazy.nvim).
 
 Features:
 
-- Open selected plugin repository in browser
-- Open selected plugin either with `find_files` or `live_grep`
-- Open lazy root directory with either `find_files` or `live_grep`
-- Resume last telescope-picker to ease searching
+- Open selected plugin repository in browser.
+- Open selected plugin either with `find_files` or `live_grep`.
+- Open lazy root directory with either `find_files` or `live_grep`.
+- Resume last telescope-picker to ease searching.
 
 Links:
 

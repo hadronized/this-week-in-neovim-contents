@@ -1,8 +1,9 @@
 # [Did you know?](#tips) {#tips}
 
-We know how to compare changes in the file with the HEAD in our git repo. But how to compare changes in the current buffer with a related file on your disk, before it will be saved, if the git does not track this file?
+We know how to compare changes in a file with the `HEAD` in our git repo. But how to compare changes in the current 
+buffer with a related file on your disk, before it will be saved, if Git does not track this file yet?
 
-Bram Moolenaar took care of it in `usr_05.txt`. Here is an example with little improvements on Lua:
+_Bram Moolenaar_ took care of it in `usr_05.txt`. Here is an example with little improvements in Lua:
 
 ```lua
 vim.api.nvim_create_user_command('DiffOrig', function()
@@ -32,4 +33,4 @@ vim.api.nvim_create_user_command('DiffOrig', function()
 end, {})
 ```
 
-For use original command, see `:h :DiffOrig`.
+More with `:h :DiffOrig`.
