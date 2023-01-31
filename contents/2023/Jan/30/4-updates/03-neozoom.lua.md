@@ -1,11 +1,11 @@
-<h3 id="update-NeoZoom.la">
-  <a href="#update-NeoZoom.la">
+<h3 id="update-NeoZoom.lua">
+  <a href="#update-NeoZoom.lua">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>NeoZoom.la</span>
+    <span>NeoZoom.lua</span>
   </a>
 </h3>
 
