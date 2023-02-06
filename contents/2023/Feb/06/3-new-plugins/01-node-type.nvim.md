@@ -11,12 +11,15 @@
 
 ![node-type.nvim screenshot](https://user-images.githubusercontent.com/226654/216843214-50cace9a-a6dc-4654-aa36-bffc4aba1856.gif)
 
-A NeoVIM plugin to show the currently selected node type from lsp and treesitter information.
+A Neovim plugin to show the currently selected node type from LSP and treesitter information.
 
 The demo shows this plugin being used in several ways:
-* Using the lualine statusline integration to show the node-type info in the statusline
-* Via a key-binding
-* Via a call to the plugin api
+
+- Using the lualine statusline integration to show the node-type info in the statusline.
+- Via a keybinding.
+- Via a call to the plugin API.
+
+Links:
 
 - [GitHub](https://github.com/roobert/node-type.nvim)
 
