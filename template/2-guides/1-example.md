@@ -4,10 +4,9 @@
       <span class="icon">
         <i class="fa-solid fa-lightbulb"></i>
       </span>
-      </span>
       <span>Some explanation of your content</span>
-    </a>
-  </h3>
+    </span>
+  </a>
 </h3>
 
 A longer description of the guide, tutorial, video, blog post, etc..
