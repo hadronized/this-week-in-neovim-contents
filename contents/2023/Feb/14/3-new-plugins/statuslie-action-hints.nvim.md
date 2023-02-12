@@ -1,4 +1,4 @@
-<h3 id="new-statuslie-action-hints.nvim">
+<h3 id="new-statusline-action-hints.nvim">
   <a href="#new-statusline-action-hints.nvim">
     <span class="icon-text">
       <span class="icon">
@@ -17,6 +17,6 @@ Available statusline hints:
 * go-to-definition (`gd`) is available
 * reference list (`gr`) available / number of references
 
-- [GitHub](https://github.com/roobert/statuslie-action-hints.nvim)
+- [GitHub](https://github.com/roobert/statusline-action-hints.nvim)
 
 ---
