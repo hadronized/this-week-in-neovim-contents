@@ -1,11 +1,11 @@
 <h3 id="new-statuslie-action-hints.nvim">
-  <a href="#new-statuslie-action-hints.nvim">
+  <a href="#new-statusline-action-hints.nvim">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>statuslie-action-hints.nvim</span>
+    <span>statusline-action-hints.nvim</span>
   </a>
 </h3>
 
