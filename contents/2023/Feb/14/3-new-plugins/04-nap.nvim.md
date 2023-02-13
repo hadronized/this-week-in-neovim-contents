@@ -5,14 +5,14 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>nap.nvim (next and previous)</span>
+    <span>nap.nvim</span>
   </a>
 </h3>
 
 Lightweight plugin inspired by [unimpaired.vim](https://github.com/tpope/vim-unimpaired) to 
-jump between next and previous buffer, tab, file, quickfix, diagnostic with a single key.
+jump between next and previous buffers, tabs, files, quickfix and diagnostics with a single key.
 
-It is extensible to work with other plugins, for example, jump between next/previous diff through
+It is extensible to work with other plugins; for example, jump between next/previous diff through
 [Gitsigns](https://github.com/lewis6991/gitsigns.nvim), or next/previous symbols with
 [Aerial](https://github.com/stevearc/aerial.nvim), etc.
 

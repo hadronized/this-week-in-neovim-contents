@@ -11,7 +11,6 @@
 
 ![luarocks-tag-release](https://user-images.githubusercontent.com/12857160/218193550-07dc639c-86ac-4370-8582-e4dbc42efe4b.png)
 
-
 Not a plugin, but a tool that facilitates the release of Neovim plugins as LuaRocks packages.
 
 With the goal to help alleviate the pain point of dependency management in the Neovim plugin ecosystem.
