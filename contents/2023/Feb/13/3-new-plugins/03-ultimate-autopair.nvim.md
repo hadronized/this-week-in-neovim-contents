@@ -5,7 +5,7 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>utimate-autopair.nvim</span>
+    <span>ultimate-autopair.nvim</span>
   </a>
 </h3>
 
