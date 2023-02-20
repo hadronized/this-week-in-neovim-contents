@@ -1,0 +1,24 @@
+<h3 id="splitjoin.nvim">
+  <a href="#splitjoin.nvim">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fa-solid fa-book"></i>
+      </span>
+    </span>
+    <span>splitjoin.nvim</span>
+  </a>
+</h3>
+
+[![splitjoin.nvim](https://bennypowers.dev/assets/images/splitjoin.png)](https://bennypowers.dev/posts/splitjoin-nvim/)
+
+splitjoin.nvim handles a common task when editing code: splitting and joining 
+lists. The plugin is inspired by the venerable old vim-mode-plus and takes the 
+place of the older, more established, but envimscriptened [SplitJoin.vim](https://github.com/AndrewRadev/splitjoin.vim) by 
+Andrew Radev.
+
+- [Reddit](https://www.reddit.com/r/neovim/comments/115nq0d/new_plugin_splitjoinnvim/)
+- [GitHub](https://github.com/bennypowers/splitjoin.nvim)
+- [Blog](https://bennypowers.dev/posts/splitjoin-nvim/)
+- [Mastodon](https://social.bennypowers.dev/@bp/109887532241542362)
+
+---
