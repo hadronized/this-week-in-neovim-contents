@@ -13,7 +13,7 @@
 
 ![nvim-jqx](https://user-images.githubusercontent.com/15387611/113495463-4bd24500-94f2-11eb-88b5-64c1ee965886.gif)
 
-A plugin interface to JSON and YAML files (requires `jq` and `yq`): in the last release, the authore has fixed a few 
+A plugin interface to JSON and YAML files (requires `jq` and `yq`): in the last release, the author has fixed a few 
 bugs introduced by the latest changes in `yq` grammar and added treesitter syntax highlight to the floating buffer 
 (invoked when querying the JSON or LLLL keys.
 

@@ -9,9 +9,9 @@
   </a>
 </h3>
 
-![screenshot](https://user-images.githubusercontent.com/1334962/219470205-7412c323-abd0-4074-9c61-da9a45432d47.jpg)
+![floating-input](https://user-images.githubusercontent.com/1334962/219470205-7412c323-abd0-4074-9c61-da9a45432d47.jpg)
 
-If you already use Telescope or Fzf-Lua for a nice `vim.ui.select`, and want a nice `vim.ui.input` (e.g.
+If you already use Telescope or FZF-Lua for a nice `vim.ui.select`, and want a nice `vim.ui.input` (e.g.
 handling LSP rename), then this simple plugin might work.
 
 It is only about ~50 lines of code, so you could either include the plugin or just copy the code to your config.
