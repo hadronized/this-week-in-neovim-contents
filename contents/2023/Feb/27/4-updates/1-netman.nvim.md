@@ -12,6 +12,7 @@
 > Lua powered Remote Resource Interface
 
 For those who are unfamiliar, Netman is a Framework that provides abstracted access to remote filesystems through a standardized API.
+
 ![Neo-tree Integration of Remote Filesystems](https://user-images.githubusercontent.com/2640668/221367566-97a71fb7-5ba8-4344-8251-f78af8d61ffc.png)
 
 Netman has completed (and merged) its v1.1 update. Below is a nonexhaustive change log from v1.0 to v1.1
