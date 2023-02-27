@@ -1,4 +1,4 @@
-<h3 id="smart-splits.nvim">
+<h3 id="update-smart-splits.nvim">
   <a href="#update-smart-splits.nvim">
     <span class="icon-text">
       <span class="icon">
