@@ -22,7 +22,7 @@ Since [introducing nvim-various-textobjs](https://www.reddit.com/r/neovim/commen
 - __toNextClosingBracket-textobj__: from the cursor position to the next `)`, `}`, or `]`. (This is essentially a replacement for the `%` motion-as-textobject, since I find it more intuitive this way.)
 - Also new: the __subword-textobj__ now also recognizes parts of a camelCase word
 <br>
-
+Links:
 - [Reddit](https://www.reddit.com/r/neovim/comments/11gemly/plugin_update_nvimvarioustextobjs_now_bundles_a/)
 - [GitHub](https://github.com/chrisgrieser/nvim-various-textobjs)
 
