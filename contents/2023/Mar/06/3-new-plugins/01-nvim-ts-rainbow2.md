@@ -1,11 +1,11 @@
-<h3 id="new-your-plugin.nvim">
+<h3 id="nvim-ts-rainbow2">
   <a href="#nvim-ts-rainbow2">
     <span class="icon-text">
       <span class="icon">
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>your-plugin.nvim</span>
+    <span>nvim-ts-rainbow2</span>
   </a>
 </h3>
 
