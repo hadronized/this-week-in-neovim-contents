@@ -1,0 +1,6 @@
+- Breaking changes are now tracked in `:help news`
+  - Breaking changes are now tracked in [:help news](https://neovim.io/doc/user/news.html#news-breaking)
+  - You can subscribe via...
+    - RSS: [http://github.com/neovim/neovim/commits/master/runtime/doc/news.txt.atom](https://github.com/neovim/neovim/commits/master/runtime/doc/news.txt.atom)
+    - Third-party service: enter [https://github.com/neovim/neovim/blob/master/runtime/doc/news.txt](https://github.com/neovim/neovim/blob/master/runtime/doc/news.txt) at [https://app.github-file-watcher.com/](https://app.github-file-watcher.com/)
+  -  Where possible, breaking changes are also flagged with [vim.deprecate()](https://neovim.io/doc/user/lua.html#vim.deprecate())
