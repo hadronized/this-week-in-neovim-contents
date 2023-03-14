@@ -9,7 +9,11 @@
   </a>
 </h3>
 
-![relative-toggle.nvim](https://user-images.githubusercontent.com/42694704/224506660-75dc1e01-83ef-4cab-9361-55b45a1c4539.mov)
+<video controls>
+  <source
+    src="https://user-images.githubusercontent.com/42694704/224506660-75dc1e01-83ef-4cab-9361-55b45a1c4539.mov"
+  >
+</video>
 
 This plugin will enhance your Neovim experience by automatically toggling smoothly between relative and absolute line 
 numbers in various Neovim events. This is useful when you want to take advantage of the information on those types of 
