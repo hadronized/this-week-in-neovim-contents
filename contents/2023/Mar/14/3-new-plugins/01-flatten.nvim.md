@@ -9,7 +9,11 @@
   </a>
 </h3>
 
-![flatten.nvim](https://user-images.githubusercontent.com/38540736/224443095-91450818-f298-4e08-a951-ee3fcc607330.mp4)
+<video controls>
+  <source
+    src="https://user-images.githubusercontent.com/38540736/224443095-91450818-f298-4e08-a951-ee3fcc607330.mp4"
+  >
+</video>
 
 Flatten.nvim allows you to open files from a Neovim terminal buffer in your current Neovim session. It's easily 
 configurable, and supports blocking so programs which need a pager / editor can use the current Neovim session as well. 
