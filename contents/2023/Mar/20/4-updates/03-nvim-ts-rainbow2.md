@@ -9,10 +9,10 @@
   </a>
 </h3>
 
-> Rainbow delimiters for Neovim through Tree-sitter
+> Rainbow delimiters for Neovim through Tree-sitter.
 
-This release brings with it bugfixes and support for new file types.  A very
-big Thank You to all who have contributed their efforts.
+This release brings with it bugfixes and support for new file types. A very big Thank You to all who have contributed 
+their efforts.
 
 #### Fixed
 
@@ -35,6 +35,5 @@ big Thank You to all who have contributed their efforts.
 
 - [GitLab](https://gitlab.com/HiPhish/nvim-ts-rainbow2)
 - [GitHub mirror](https://github.com/HiPhish/nvim-ts-rainbow2)
-
 
 ---
