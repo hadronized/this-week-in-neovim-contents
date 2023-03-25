@@ -1,0 +1,1 @@
+- [#21832](https://github.com/neovim/neovim/pull/21832): `libiconv` is now a required build dependency.
