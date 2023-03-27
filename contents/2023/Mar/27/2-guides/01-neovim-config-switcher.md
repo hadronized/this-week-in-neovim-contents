@@ -10,7 +10,7 @@
   </a>
 </h3>
 
-<a href="https://www.youtube.com/watch?v=_NiWhZeR-MY">
+<a href="https://youtu.be/LkHjJlSgKZY">
   <img width=500 src="https://user-images.githubusercontent.com/86454/227739210-b31894b6-708f-4f1a-9bfe-e75956e5967b.png">
 </a>
 
