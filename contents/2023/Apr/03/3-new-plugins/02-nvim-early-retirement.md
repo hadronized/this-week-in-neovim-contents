@@ -11,7 +11,8 @@
 
 > Send buffers into early retirement by automatically closing them after x minutes of inactivity.
 
-Simple plugin with the purpose of making the bufferline and/or `:bnext` less crowded. Offers various options to ignore certain filetypes or special/modified/alternate buffers.
+Simple plugin with the purpose of making the bufferline and/or `:bnext` less crowded. Offers various options to ignore
+certain filetypes or special/modified/alternate buffers.
 
 - [Reddit](https://www.reddit.com/r/neovim/comments/128stpx/introducing_nvimearly_retirement_autoclose_your/)
 - [GitHub](https://github.com/chrisgrieser/nvim-early-retirement)
