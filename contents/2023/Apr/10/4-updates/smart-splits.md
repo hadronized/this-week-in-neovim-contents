@@ -21,6 +21,8 @@ your multiplexer backend based on the presence of the following environment vari
 
 Read more about [setting up Kitty's multiplexer integration](https://github.com/mrjones2014/smart-splits.nvim#kitty).
 
+Additionally, `smart-splits.nvim` now supports semantic versioning via git tags.
+
 - [GitHub](https://github.com/mrjones2014/smart-splits.nvim)
 
 ---
