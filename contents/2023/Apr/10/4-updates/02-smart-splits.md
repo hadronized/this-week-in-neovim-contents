@@ -9,11 +9,13 @@
   </a>
 </h3>
 
-> 🧠 Smart, directional Neovim and tmux/wezterm/kitty split resizing and navigation. Think about splits in terms of "up/down/left/right". 
+> 🧠 Smart, directional Neovim and `tmux`/`wezterm`/`kitty` split resizing and navigation. Think about splits in terms 
+> of "up/down/left/right". 
+
 ![smart-splits.nvim](https://user-images.githubusercontent.com/8648891/201928611-4338e3cb-cca9-4e15-92c6-0405b7072279.gif)
 
-`smart-splits.nvim` now supports seamless split navigation for the Kitty multiplexer! The plugin will attempt to automatically detect
-your multiplexer backend based on the presence of the following environment variables:
+`smart-splits.nvim` now supports seamless split navigation for the Kitty multiplexer! The plugin will attempt to 
+automatically detect your multiplexer backend based on the presence of the following environment variables:
 
 - `$TMUX` => `config.multiplexer_integration = 'tmux'`
 - `$WEZTERM_PANE` => `config.multiplexer_integration = 'wezterm'`
