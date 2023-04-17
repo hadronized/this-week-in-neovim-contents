@@ -1,2 +1,0 @@
-## [Updates](#updates) {#updates}
-
