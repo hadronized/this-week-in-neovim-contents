@@ -5,15 +5,13 @@
         <i class="fa-solid fa-book"></i>
       </span>
     </span>
-    <span>template-literal-comments. nvim</span>
+    <span>template-literal-comments.nvim</span>
   </a>
 </h3>
 
->  Highlight ECMAScript template literals by placing a comment before them
+> Highlight ECMAScript template literals by placing a comment before them
 
-![screenshot](https://github.com/bennypowers/template-literal-comments.nvim/raw/main/screenshot.png)
-
-
+![template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim/raw/main/screenshot.png)
 
 - [GitHub](https://github.com/bennypowers/template-literal-comments.nvim)
 - [Reddit](https://www.reddit.com/r/neovim/comments/12qwz5i/templateliteralcommentsnvim/)
