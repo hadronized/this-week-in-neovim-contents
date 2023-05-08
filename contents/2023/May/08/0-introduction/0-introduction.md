@@ -23,6 +23,8 @@ For this reason, I think it’s important to start talking about the future of T
 to gather what people want, who would like to get involved more (i.e. having write accesses, etc.) to slowly move
 ownership. Let’s talk about that on Reddit; you have enough to read down below!
 
+[Reddit thread](https://www.reddit.com/r/neovim/comments/13b8oo9/help_needed_twins_future/).
+
 Have fun reading!
 
 ---
