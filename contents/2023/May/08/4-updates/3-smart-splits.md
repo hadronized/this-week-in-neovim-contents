@@ -9,7 +9,8 @@
   </a>
 </h3>
 
-> 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+> 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports tmux,
+> Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 
 The Wezterm integration for `smart-splits.nvim` has been updated to support a new way to handle the keymaps from the Wezterm side.
 The plugin now sets a [Wezterm user variable](https://wezfurlong.org/wezterm/shell-integration.html#user-vars) `IS_NVIM=true`

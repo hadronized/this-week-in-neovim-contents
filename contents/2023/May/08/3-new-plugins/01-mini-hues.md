@@ -15,7 +15,7 @@
   >
 </video>
 
-There was a release of new color scheme module in `mini.nvim` called `mini.hues`. It is an another take on color scheme
+There was a release of a new color scheme module in `mini.nvim` called `mini.hues`. It is an another take on color scheme
 generation: supply background with foreground colors and the rest of the palette is computed to be as much perceptually
 different from one another as reasonably possible. It can limit number of used hues for non-base colors, adjust
 saturation level and accent color while also having 30+ modern Neovim plugin integrations.
