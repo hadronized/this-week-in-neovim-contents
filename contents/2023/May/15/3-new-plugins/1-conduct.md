@@ -11,7 +11,9 @@
 
 A project management plugin for Neovim with session support
 
-`conduct.nvim` simplifies project management with an intuitive interface, keybinding commands, and preset options. It offers session storage, customizable hooks, and an easy-to-use API. The plugin integrates with Telescope for fast navigation between projects.
+`conduct.nvim` simplifies project management with an intuitive interface, keybinding commands, and preset options. It
+offers session storage, customizable hooks, and an easy-to-use API. The plugin integrates with Telescope for fast
+navigation between projects.
 
 Made by [@aaditeynair](https://github.com/aaditeynair).
 

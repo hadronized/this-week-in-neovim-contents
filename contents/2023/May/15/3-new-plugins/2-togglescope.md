@@ -11,7 +11,8 @@
 
 ![togglescope.nvim](https://user-images.githubusercontent.com/40017636/234332528-1dc07a2a-d8a3-4be2-ac79-7882d0bbc0e9.gif)
 
-Togglescope is an extension for telescope.nvim that allows you to toggle between two picker configurations with just one keypress.
+Togglescope is an extension for telescope.nvim that allows you to toggle between two picker configurations with just one
+keypress.
 
 Made by [@Theo](https://github.com/Theo-Steiner).
 
