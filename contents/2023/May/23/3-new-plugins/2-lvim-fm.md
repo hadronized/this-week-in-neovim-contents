@@ -18,6 +18,6 @@ files.
 
 - [Reddit](https://www.reddit.com/r/neovim/comments/13j6q5r/introducing_lvim_file_manager_file_manager_for/)
 - [GitHub](https://github.com/lvim-tech/lvim-fm)
-- [Youtube](https://www.youtube.com/watch?v=dohJ7TS6ciE
+- [Youtube](https://www.youtube.com/watch?v=dohJ7TS6ciE)
 
 ---
