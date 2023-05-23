@@ -9,9 +9,9 @@
   </a>
 </h3>
 
-![luasnip-latex-snippets.nvim](https://user-images.githubusercontent.com/82856360/239061593-8649e3ea-ea81-4f80-aa28-dc9c51cd4642.mp4)
-
-This plugin aims to provide solid default smart snippets for LaTeX, serving as a convenient starting point for users who want to implement their own snippets. The author also plans to expand these snippets beyond just LaTeX, offering support for additional languages and functionalities.
+This plugin aims to provide solid default smart snippets for LaTeX, serving as a convenient starting point for users who 
+want to implement their own snippets. The author also plans to expand these snippets beyond just LaTeX, offering support 
+for additional languages and functionalities.
 
 Made by [@evesdropper](https://github.com/evesdropper).
 
