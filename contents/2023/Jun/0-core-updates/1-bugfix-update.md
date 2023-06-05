@@ -1,0 +1,51 @@
+- [#v091](https://github.com/neovim/neovim/releases/tag/v0.9.1) Nvim 0.9.1 Bugfix release
+
+  The bugfix list from this release:
+
+    - checkhealth: Add shims for health functions (#23241)
+    - Add vim.lsp.buf.formatting_sync() to deprecated.txt
+    - treesitter: update parsers and queries
+    - api: Extmark highlight groups not always included in details
+    - api: Avoid assertion when autocmd group id is 0
+    - api: Don't change title when setting buffer in a window
+    - api: Nvim_get_hl should return default flag
+    - colorscheme: Try .lua files in 'rtp' before .vim files in 'pp'
+    - statuscolumn: fix issues when used with virt_lines and signs
+    - drawline: Make cursorlineopt=screenline work with resized grid
+    - eval: Prevent double-free in garbage collection
+    - extmarks: Don't show virt lines for end mark
+    - float: Make bufpos work properly with resized parent grid
+    - highlight: Add missing g: prefix for colors_name
+    - highlight: Combine ColorColumn with low-priority CursorLine
+    - highlight: Apply 'winblend' to NormalNC
+    - lua: Inspect_pos respect bufnr when get syntax info
+    - lua: Vim.split may trim inner empty items
+    - man.lua: Don't continue on command error
+    - man.lua: Return support of all sections
+    - mark: Properly init mark views
+    - messages: Ensure msg_grid is at top at more prompt
+    - mkspell: Prevent Unicode character overflow
+    - mouse: Cmdline click registered as statuscolumn
+    - mouse: Fix popup menu position check with winbar
+    - normal: Make "g$" work properly with resized grid
+    - pum: Show right-click menu above cmdline area
+    - pum: Position properly with multigrid and floats
+    - pum: Fix issues with with 'rightleft'
+    - redo: Make redo of Lua mappings in op-pending mode work
+    - redraw: Multibyte characters are wrapped at the end of a line
+    - redraw: Overwrite double-width char with virt_text properly
+    - ruler: Show ruler of curwin with no statusline in cmdline
+    - spell: Extmark with spell=false should disable spell
+    - statusline: Also allow right click when 'mousemodel' is "popup*"
+    - substitute: Properly check if preview is needed
+    - termdebug: Handle partial lines passed to callback
+    - tui: Position cursor at bottom-left before stopping
+    - tui: Redraw on SIGWINCH even if size didn't change
+    - tui: Grid_clear properly clears the screen
+    - tui: Fix title restore with title stack or altscreen
+    - ui: Send title to newly-attached UI
+    - windows: Set stdout to binary mode for --api-info
+    - windows: Revert installation context to per-machine
+    - build: Include all dependency directories when generating headers
+
+---
