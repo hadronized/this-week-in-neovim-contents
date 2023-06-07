@@ -35,7 +35,7 @@ Who says window management can't be visually appealing? Edgy.nvim offers pretty 
 Edgy.nvim is designed to work seamlessly with any plugin. Explore Show and Tell snippets to integrate Edgy.nvim even better with plugins like neo-tree.nvim or bufferline.nvim. Enjoy the benefits of Edgy.nvim alongside your favorite Neovim plugins, taking your productivity to new heights.
 Embrace the power of Edgy.nvim and unlock the true potential of your Neovim editing environment. Streamline your workflow, effortlessly manage windows, and personalize your workspace to suit your needs. With Edgy.nvim, achieving a seamless and efficient editing experience has never been easier.
 
-Made by the glorious [@Folke Lemaitre](https://github.com/folke).
+Made by the glorious [@folke](https://github.com/folke).
 
 - [Reddit](https://www.reddit.com/r/neovim/comments/1425wvl/edgynvim_easily_create_and_manage_predefined/)
 - [GitHub](https://github.com/folke/edgy.nvim)

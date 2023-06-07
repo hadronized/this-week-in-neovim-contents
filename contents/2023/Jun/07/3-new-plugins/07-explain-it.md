@@ -9,7 +9,11 @@
   </a>
 </h3>
 
-![explain-it.nvim](https://preview.redd.it/t4b7zp4py24b1.gif?format=mp4&v=enabled&s=ae9a6cd6ec39e8af892d0ea1872f4b11d73cd542)
+<video controls>
+  <source
+    src="https://preview.redd.it/t4b7zp4py24b1.gif?format=mp4&v=enabled&s=ae9a6cd6ec39e8af892d0ea1872f4b11d73cd542"
+  >
+</video>
 
 Simple and effective AI integration with your favorite text editor Neovim ! Ask a question, and let robots explAIn-it!
 This plugin empowers Neovim users to leverage the capabilities of AI models for various tasks.

@@ -9,8 +9,6 @@
   </a>
 </h3>
 
-![yarepl.nvim](https://link-to-an-image-or-gif-or-video-etc.)
-
 Yarepl.nvim is a powerful and flexible REPL (Read-Eval-Print-Loop) management plugin for Neovim.
 It simplifies the process of interacting with a REPL and text buffer, making tasks such as sending and managing text and REPL buffers effortless.
 

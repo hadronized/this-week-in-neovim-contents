@@ -9,7 +9,11 @@
   </a>
 </h3>
 
-![rayso.nvim](https://preview.redd.it/hf6b99fypv3b1.gif?format=mp4&v=enabled&s=160bd4849888f9bd46d39590c44b32bd2ba4b29f)
+<video controls>
+  <source
+    src="https://preview.redd.it/hf6b99fypv3b1.gif?format=mp4&v=enabled&s=160bd4849888f9bd46d39590c44b32bd2ba4b29f"
+  >
+</video>
 
 Introducing the "rayso-nvim" plugin, a powerful tool for instantly sharing code snippets from your Neovim editor.
 Inspired by the popular "carbon-now.nvim" plugin, "rayso-nvim" provides a seamless experience for taking a visual selection of your code and quickly uploading it to ray.so.

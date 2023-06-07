@@ -9,7 +9,7 @@
   </a>
 </h3>
 
-> A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands 
+> A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands.
 
 A one off picker can now be created by calling
 
