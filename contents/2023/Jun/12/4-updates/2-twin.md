@@ -1,3 +1,14 @@
+<h3 id="update-twin">
+  <a href="#update-twin">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fa-solid fa-book"></i>
+      </span>
+    </span>
+    <span>TWiN</span>
+  </a>
+</h3>
+
 Even though TWiN has been a well-received community project, it has been running for a while without the amount of
 expected contributions. There is a narrow core of regular contributors (opening a PR at least twice a month), but
 overall, the traction is mostly read-only and occasional one-shot contributors not even respecting the most basic
