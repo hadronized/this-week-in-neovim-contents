@@ -2,6 +2,14 @@
 
 This repository holds the contents of https://this-week-in-neovim.org.
 
+## Deprecation notice
+
+**This repository is inactive as the owner ([@phaazon](https://github.com/phaazon)) moved away from the Vim/Neovim
+community. However, you can still find all of the content available on
+[the new platform](https://dotfyle.com/this-week-in-neovim) set up by [@codico](https://github.com/codicocodes).**
+
+**Thank you.**
+
 ## Structure and architecture
 
 News are classified by year, month, and day. The file naming scheme is quite simple `/contents/<year>/<month>/<day>`.
