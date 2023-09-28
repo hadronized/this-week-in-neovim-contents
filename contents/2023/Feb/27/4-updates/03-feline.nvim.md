@@ -13,7 +13,7 @@
 
 ![feline.nvim](https://user-images.githubusercontent.com/80379926/205459030-1ef38f4f-b364-43ea-876e-db98549c38cd.png)
 
-[Last week](https://this-week-in-neovim.org/2023/Feb/20#update-feline.nvim), the author of `feline.nvim` announced that
+Last week, the author of `feline.nvim` announced that
 the plugin was discontinued and no longer maintained. This week brings a happier news: its development was moved to
 [@freddiehaddad](https://github.com/freddiehaddad)! The important thing regarding the original author, 
 [@Famiu](https://github.com/famiu), is that they wanted the project to be forked instead of transferring the full 

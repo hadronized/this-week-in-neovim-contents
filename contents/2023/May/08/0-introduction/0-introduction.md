@@ -10,7 +10,7 @@ I — [@phaazon](https://github.com/phaazon) — was not available for a whole w
 release dates. Hence, you get a mega update this week, yaaaay.
 
 However, I think it’s important for me to explain something about
-[this-week-in-neovim](https://this-week-in-neovim.org). I started the project almost one year ago now, completely on my
+[this-week-in-neovim](https://dotfyle.com/this-week-in-neovim). I started the project almost one year ago now, completely on my
 own, just after asking the community whether they would like a curated list of news
 ([reddit](https://www.reddit.com/r/neovim/comments/vu7ktl/suggestion_would_you_like_a_twinpe_this_week_in/)).
 

@@ -1,6 +1,6 @@
 # [Did you know?](#tips) {#tips}
 
-Last week, we saw how to [jump to the last place](https://this-week-in-neovim.org/2023/Jan/02#tips) you’ve visited in a file.
+Last week, we saw how to jump to the last place you’ve visited in a file.
 Today we'll learn how to disable `hlsearch` **automatically** when your search done and enable on next searching without
 extra plugins. Add next lines in your `init.lua`:
 

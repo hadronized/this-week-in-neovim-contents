@@ -1,6 +1,6 @@
 # [Did you know?](#tips) {#tips}
 
-We [continue](https://this-week-in-neovim.org/2023/Jan/16#tips) to learn the `=` operator in command-line mode. 
+We continue to learn the `=` operator in command-line mode. 
 Sometimes you need to redirect the output of **Ex** commands to the current buffer. You can do that with `:put`,
 `execute()` and `=`:
 

@@ -27,11 +27,14 @@ from it all anymore since I have fully migrated to Kakoune-based editors. It’s
 [It’s the Internet](https://en.wikipedia.org/wiki/1%25_rule).
 
 So this little update is just there to let you know that, end of the month, the domain
-name – _this-week-in-neovim.org_ – should be free again. If someone in the community wants to pick it up and redeploy
+name – _this-week-in-neovim[.]org_ – should be free again. If someone in the community wants to pick it up and redeploy
 a version of TWiN – even my code –, I’m 100% okay with that. However, and that seems pretty obvious, if you do so,
 remember that you’re using _my code_, which is licensed.
 
 Feel free to reach to me if you are interested to make a seamless migration to the new IP address, whether you use my
 code, or your own.
+
+> EDIT: this-week-in-neovim[.]org is currently squated by some completely unrelated Neovim content. **Do not go there**;
+> instead, the new URL is https://dotfyle.com/this-week-in-neovim.
 
 Cheers.

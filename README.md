@@ -1,6 +1,6 @@
 # This Week In Neovim | Contents
 
-This repository holds the contents of https://this-week-in-neovim.org.
+This repository holds the contents of https://dotfyle.com/this-week-in-neovim.
 
 ## Deprecation notice
 
@@ -70,7 +70,7 @@ Before the end of the cycle, by Sunday sunset, while listening to some dope synt
 etc., or if anyone want to withdraw their updates from the weekly updates.
 
 To finish the cycle, the merge commit is created and the article is automatically available on
-https://this-week-in-neovim.org/latest or `https://this-week-in-neovim.org/<year>/<month>/<day>`.
+https://dotfyle.com/this-week-in-neovim/<issue-number>.
 
 ## How to contribute?
 
